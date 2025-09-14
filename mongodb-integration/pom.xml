@@ -8,9 +8,9 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javadev-paresh</groupId>
+	<groupId>com.javadev.paresh</groupId>
 	<artifactId>mongodb-integration</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>mongodb-integration</name>
 	<description>Demo project for MongoDB Integration with Spring Boot Application</description>
 	<url/>

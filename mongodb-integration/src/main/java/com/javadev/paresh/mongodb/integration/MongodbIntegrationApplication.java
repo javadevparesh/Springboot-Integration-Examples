@@ -1,4 +1,4 @@
-package com.javadev_paresh.mongodb_integration;
+package com.javadev.paresh.mongodb.integration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
